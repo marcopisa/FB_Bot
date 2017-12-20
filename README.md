@@ -1,2 +1,2 @@
 # FB_Bot
-Bot for Messanger 
+Bot for Messenger 
